@@ -1,0 +1,6 @@
+framework module Pods_orlando_tree_orders {
+  umbrella header "Pods-orlando-tree-orders-umbrella.h"
+
+  export *
+  module * { export * }
+}

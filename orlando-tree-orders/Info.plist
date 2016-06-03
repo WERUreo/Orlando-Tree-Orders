@@ -43,5 +43,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleDisplayName</key>
+	<string>Trees</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need location</string>
 </dict>
 </plist>
